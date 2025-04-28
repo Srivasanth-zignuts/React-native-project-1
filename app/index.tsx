@@ -1,5 +1,6 @@
 import PokemonCard from '@/components/PokemonCard';
 import { SafeAreaView, Platform, StyleSheet, ScrollView } from 'react-native';
+import "../global.css"
 
 interface Charachter {
 	name: string;
